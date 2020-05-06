@@ -4,6 +4,7 @@ for(var counter = 0; counter <5; counter++){
     console.log(`Loop Number${counter}`);
     // ctrl + d to change all the values and then esc
 }
+console.log("This is a github test");
 var x =5;
 var y =0;
 for (var i =0; i<10; i++){
